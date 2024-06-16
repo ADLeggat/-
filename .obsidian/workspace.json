@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plain Past Form.md",
+                "file": "Plain Past Tense.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plain Past Form.md",
+                "file": "Plain Past Tense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plain Past Form.md",
+                "file": "Plain Past Tense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plain Past Form.md"
+                "file": "Plain Past Tense.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "661c0c8d3dba4036",
   "lastOpenFiles": [
-    "Plain Past Form.md",
     "日本語.md",
+    "Plain Past Tense.md",
     "Plain_Past_Form.md",
     "Past Plain Form.md",
     "Plain-Past-Form.md",

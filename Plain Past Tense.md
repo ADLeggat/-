@@ -1,6 +1,8 @@
-# Plain Past Form
+# Plain Past Tense
 ## Verbs
 ### Ichidan
+#### Formula
+Drop the final る and add た.
 
 | Present | Past |
 | ------- | ---- |
@@ -13,11 +15,15 @@
 	I ate bread.
 </details>
 
+<hr>
+
 ### Godan
+#### Formula
+Godan verb conjugation depends on the dictionary form ending. The following table shows the process of conjugating to the plain past tense based on the verb ending.
 
 | Ending | Present                   | Past |
 | ------ | ------------------------- | ---- |
-| す      | 話す                        | 話た   |
+| す      | 話す                        | 話した  |
 | く      | 書く                        | 書いた  |
 | ぐ      | 泳ぐ                        | 泳いだ  |
 | む      | 飲む                        | 飲んだ  |
