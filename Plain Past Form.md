@@ -5,6 +5,14 @@
 | Present | Past |
 | ------- | ---- |
 | 食べる     | 食べた  |
+#### Examples
+<details>
+	<summary>
+		パンを食べた。
+	</summary>
+	I ate bread.
+</details>
+
 ### Godan
 
 | Ending | Present                   | Past |
@@ -18,3 +26,10 @@
 | る      | <ruby>切<rt>き</rt></ruby>る | 切った  |
 | う      | 買う                        | 買った  |
 | つ      | 持つ                        | 持った  |
+#### Examples
+<details>
+	<summary>
+		ビールを飲んだ。
+	</summary>
+	I drank beer
+</details>
