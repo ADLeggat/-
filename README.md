@@ -1,3 +1,3 @@
 # 日本語
-[Plain Past Tense](Plain%20Past%20Tense.md)
+[Past Tense - Plain Form](Past%20Tense%20Plain%20Form.md)
 
