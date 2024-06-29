@@ -22,7 +22,7 @@ Add ようにする to the end of a plain form verb or plain form negative verb.
 
 <details>
 	<summary>
-		明日の朝早く起きるにしている。
+		明日の朝早く起きるようにしている。
 	</summary>
 	I will make sure to wake up early tomorrow morning.
 </details>
