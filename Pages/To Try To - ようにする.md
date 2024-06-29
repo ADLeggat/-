@@ -8,10 +8,10 @@ The ~ようにする grammatical structure is used to talk about intent, and can
 * I will/Let's try to ~
 * I will/Let's make sure to ~
 
-##### Formula
+# Formula
 Add ようにする to the end of a plain form verb or plain form negative verb. ようにする can be conjugated into other forms including the polite (ます-form), the continuative (て-form) and the past continuative.
 
-##### Examples
+# Examples
 <details>
 	<summary>
 		毎朝走るようにする。
